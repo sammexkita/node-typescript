@@ -5,7 +5,7 @@
     "rootDir": "src",
     "moduleResolution": "node",
     "forceConsistentCasingInFileNames": true,
-    "strict": true,
+    "strict": false,
     "skipLibCheck": true,
     "esModuleInterop": true,
     "strictPropertyInitialization": false
